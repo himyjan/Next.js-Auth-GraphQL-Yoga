@@ -1,3 +1,6 @@
+## This is a GraphQL Yoga v3 example using next-auth.js
+https://github.com/dotansimha/graphql-yoga/tree/v3/examples/nextjs-auth
+
 This is a Next.js example using [next-auth.js](https://next-auth.js.org/).
 
 Before running this example you need to set upa GitHubOAuth App. [Follow the instructions here](https://docs.github.com/en/developers/apps/building-oauth-apps/creating-an-oauth-app).
